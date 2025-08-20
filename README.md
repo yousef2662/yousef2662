@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Yousef+Fathy;Frontend+Web+Developer;HTML+%7C+CSS+%7C+JavaScript)  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>  
 
 # 👋 Hey there, I’m **Yousef Fathy**  
@@ -10,10 +10,10 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/yourTelegramUsername)
+[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/You7efFathy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=flat&logo=google-chrome&logoColor=white)](https://yousef2662.github.io/wd.digitals/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourInstagramUsername)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourFacebookUsername)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/you7ef_fathy?igsh=b2R6aHVmeGd1aTI0&utm_source=qr)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/19NwWuipP6/?mibextid=wwXIfr)  
 
 </div>
 
@@ -43,9 +43,9 @@
 
 ###  GitHub Stats
 
-<a href="https://github.com/youseffathy">
-  <img src="https://github-readme-stats.vercel.app/api?username=youseffathy&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youseffathy&layout=compact&theme=tokyonight" width="48%"/>
+<a href="https://github.com/yousef2662">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousef2662&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef2662&layout=compact&theme=tokyonight" width="48%"/>
 </a>
 
 ---
