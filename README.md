@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/You7efFathy)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=flat&logo=google-chrome&logoColor=white)](https://yousef2662.github.io/My-web/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/you7ef_fathy?igsh=b2R6aHVmeGd1aTI0&utm_source=qr)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/19NwWuipP6/?mibextid=wwXIfr)  
